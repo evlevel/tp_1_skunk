@@ -1,5 +1,7 @@
 
+
 // trivial comment in Die
+
 public class Die
 {
 	private int lastRoll;
