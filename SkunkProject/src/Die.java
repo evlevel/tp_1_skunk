@@ -1,4 +1,4 @@
-
+// trivial change in Die
 public class Die
 {
 	private int lastRoll;
